@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Setup Velocity",
+            "type": "velocity",
+            "request": "launch",
+            "version": 2
+        }
+    ]
+}

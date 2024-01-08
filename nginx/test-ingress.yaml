@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: jdvincent/velocity-example-go:latest 
+          image: jdvincent/k8s-cert-manager-app:latest
           imagePullPolicy: IfNotPresent
           ports:
             - name: app
